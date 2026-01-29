@@ -1,0 +1,27 @@
+# Mac OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Test files (learning exercises)
+test_*.py
+
+# Large files
+*.pdf
+*.docx
+Documents & Certificates/
+Portfolio Projects/
+
+# Vector database (will be regenerated)
+chroma_db/
+
+# Environment
+.env
+*.key
+
+# IDE
+.vscode/
+.idea/
